@@ -76,10 +76,6 @@ This dashboard can help:
 
 ---
 
-## 📸 Screenshot
-
-![Dashboard Preview](./Screenshot%202025-06-12%20222405.png)
-
 ---
 
 ## 🏷️ Tags
